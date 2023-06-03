@@ -1,0 +1,70 @@
+.base{
+	background-color: #f2f2f2;
+	padding: 80px 0;
+	padding-top: 80px;
+	padding-right: 0px;
+	padding-bottom: 80px;
+	padding-left: 0px;
+}
+.login-box{
+	background-color: white;
+	border-radius: 8 px;
+	border-top-left-radius: 8px;
+	border-top-right-radius: 8px;
+	border-bottom-right-radius: 8px;
+	border-bottom-left-radius: 8px;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+	margin: auto;
+	margin-top: auto;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: auto;
+	padding: 0 0 14px 0;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 14px;
+	padding-left: 0px;
+	width: 396px;
+}
+.email-container{
+	border-radius: 6px;
+	border-top-left-radius: 6px;
+	border-top-right-radius: 6px;
+	border-bottom-right-radius: 6px;
+	border-bottom-left-radius: 6px;
+	font-size: 17px;
+	padding: 14px 16px;
+	padding-top: 14px;
+	padding-right: 16px;
+	padding-bottom: 14px;
+	padding-left: 16px;
+	width: 330px;
+}
+	.password-container{
+	border-radius: 6px;
+	border-top-left-radius: 6px;
+	border-top-right-radius: 6px;
+	border-bottom-right-radius: 6px;
+	border-bottom-left-radius: 6px;
+	font-size: 17px;
+	padding: 14px 16px;
+	padding-top: 14px;
+	padding-right: 16px;
+	padding-bottom: 14px;
+	padding-left: 16px;
+	width: 330px;
+}
+.button-conf{
+	padding: 0 16px;
+	padding-top: 0px;
+	padding-right: 16px;
+	padding-bottom: 0px;
+	padding-left: 16px;
+	width: 332px;
+}
+.inner-text{
+	text-align: middle;
+}
+.footer{
+	background-color: blue;
+}
